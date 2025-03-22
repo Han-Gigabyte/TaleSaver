@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - OneWayPlatform
+  - Enemy
+  - EnemyProjectile
+  - Portal
+  - DroppedItem
+  - Boss
+  - Item
+  - Half Tile
+  - Point
+  - SpawnPoint
+  - Trap Tile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - PlayerPassthrough
+  - EnemyProjectile
+  - DroppedItem
+  - Half Tile
+  - Trap Tile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

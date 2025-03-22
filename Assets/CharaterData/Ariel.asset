@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f9ab830d02ec4bf090efefc2f4c109a, type: 3}
+  m_Name: Ariel
+  m_EditorClassIdentifier: 
+  characterName: "\uC5D0\uB9AC\uC5BC"
+  characterSprite: {fileID: 2537882373423050008, guid: 6f5febe56d7878640b005a9e9bfd5f2b, type: 3}
+  animatorController: {fileID: 9100000, guid: 511da66ad9f62eb45aa0603487c32286, type: 2}
+  level: 1
+  description: "\uC124\uBA85"
+  vitality: 0
+  power: 0
+  agility: 0
+  luck: 0
+  maxHealth: 1
+  isUnlocked: 0
+  requiredSteelPieces: 1
+  requiredBookPages: 1
+  skills:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
